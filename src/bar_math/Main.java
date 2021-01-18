@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
 	
-	//gets user input using menu below adn returns as "input"
+	//gets user input using menu below and returns as "input"
 	public static int getInput() {
 		String menu = "Type a number then press enter...\n" +
 				"-----------------------------------------------------\n" +
